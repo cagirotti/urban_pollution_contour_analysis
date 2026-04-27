@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-python src/run_analysis.py --config config/example_config.yml
+python src/run_analysis.py
 
 ## Input data
 
@@ -29,3 +29,4 @@ Datasets must include the following columns:
 - Input data are not included
 - Users must provide their own datasets
 - Column names may require adaptation depending on the dataset
+
